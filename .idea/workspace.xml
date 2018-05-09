@@ -67,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="333">
-              <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+              <caret line="34" column="44" lean-forward="true" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -340,7 +340,7 @@
       <option name="presentableId" value="Default" />
       <updated>1525281607917</updated>
       <workItem from="1525281610525" duration="2084000" />
-      <workItem from="1525766234767" duration="3359000" />
+      <workItem from="1525766234767" duration="3431000" />
     </task>
     <servers />
   </component>
@@ -353,7 +353,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5443000" />
+    <option name="totallyTimeSpent" value="5515000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="34" width="1440" height="781" extended-state="0" />
@@ -503,7 +503,7 @@
     <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="333">
-          <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+          <caret line="34" column="44" lean-forward="true" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
